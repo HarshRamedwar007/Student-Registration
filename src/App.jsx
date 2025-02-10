@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import CourseTypeManager from './Components/CourseTypeManager';
-import CourseManager from './components/CourseManager';
+ import CourseManager from "./Components/CourseManager";
 import CourseOfferingManager from './components/CourseOfferingManager';
 import StudentRegistration from './components/StudentRegistration';
 
