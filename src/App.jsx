@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import CourseTypeManager from './Components/CourseTypeManager';
  import CourseManager from "./Components/CourseManager";
 import CourseOfferingManager from "./Components/CourseOfferingManager";
-import StudentRegistration from './components/StudentRegistration';
+import StudentRegistration from "./Components/StudentRegistration";
 
 function App() {
     const [offerings, setOfferings] = useState([]);
